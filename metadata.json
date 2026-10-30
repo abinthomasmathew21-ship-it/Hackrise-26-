@@ -1,0 +1,6 @@
+{
+  "name": "HACKRISE ’26 | Inter-College 12-Hour Hackathon",
+  "description": "Official website for HACKRISE ’26, an inter-college 12-hour hackathon on 26 January 2027 by Orbinex Innovations and MBC:80 with µLearn MBCCET. Where Ideas Rise, Innovation Begins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
